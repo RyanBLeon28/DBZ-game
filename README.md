@@ -1,2 +1,3 @@
 # DBZ-game
-This is a game I made as a job for college.
+DBZ game was made to capture the seven Dragon balls.
+This only rule implies that you cannot touch an opponent who is attempting to capture you.
